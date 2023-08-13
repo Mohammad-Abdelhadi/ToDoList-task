@@ -2,7 +2,9 @@
 1. MVC Architecture:
 
 Model: MongoDB Schema
+
 Controllers: Logic Handling
+
 View: React Frontend with Charts.js Integration and Components
 
 2. Added Header Component with "Add Task" Button
